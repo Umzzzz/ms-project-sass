@@ -1,6 +1,6 @@
 # ms-project-sass
 
-Sass - Self-initaed project 
+Sass - self-initaed project 
 
 Part of Agency Ready Unit. One of my self-initiated project was to convert Mars Spiders original CSS to Sass. 
 Coding the website with Sass help to improve productivity and efficiency. 
